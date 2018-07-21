@@ -6,9 +6,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.math.BigDecimal;
 
-/**
- * Created by jt on 1/10/17.
- */
 @Document
 public class Product {
     @Id

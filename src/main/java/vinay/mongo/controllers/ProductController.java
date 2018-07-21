@@ -14,9 +14,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import javax.validation.Valid;
 
-/**
- * Created by jt on 1/10/17.
- */
 @Controller
 public class ProductController {
     private ProductService productService;
